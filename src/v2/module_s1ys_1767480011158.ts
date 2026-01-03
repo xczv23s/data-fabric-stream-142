@@ -1,0 +1,1 @@
+const util_s1ys = (d: any) => d;
